@@ -7,7 +7,7 @@ Area de trabajo de la Oficina A y Configuracion IP
 <img src="./Imagenes/Conf_oficinaA.png" alt="drawing" style="width:500px;"/>
 #
 Area de trabajo de la Oficina B y Configuracion IP
-<img src="./Imagenes/OficinaB.png" alt="drawing" style="width:300px;"/>
+<img src="./Imagenes/OficinaB.png"  style="width:300px;"/>
 <img src="./Imagenes/Conf_oficinaB.png" alt="drawing" style="width:500px;"/>
 #
 Area de trabajo de la Oficina C y Configuracion IP
