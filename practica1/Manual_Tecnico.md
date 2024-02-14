@@ -4,8 +4,8 @@
 
 #Configuracion de las VPCs
 Area de trabajo de la Oficina A y Configuracion IP
-<img src="./Imagenes/OficinaA.png" alt="drawing" style="width:500px;"/>
-<img src="./Imagenes/Conf_oficinaA.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/OficinaA.png" alt="drawing" style="width:400px;"/>
+<img src="./Imagenes/Conf_oficinaA.png" alt="drawing" style="width:300px;"/>
 
 - Type some Markdown on the left
 - See HTML in the right
