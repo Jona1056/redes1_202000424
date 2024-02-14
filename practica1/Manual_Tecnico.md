@@ -4,7 +4,7 @@
 #
 Area de trabajo de la Oficina A y Configuracion IP
 <br>
-<img src="./Imagenes/Conf_oficinaA.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/Conf_oficinaA.png" alt="drawing" />
 <img src="./Imagenes/OficinaA.png"  style="width:300px;"/>
 #
 Area de trabajo de la Oficina B y Configuracion IP
