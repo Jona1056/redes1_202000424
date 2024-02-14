@@ -40,12 +40,14 @@ Area de trabajo de Atencion al Cliente y Configuracion IP
 <br>
 <img src="./Imagenes/Conf_atencionalcliente.png" alt="drawing" style="width:500px;"/>
 <img src="./Imagenes/Atencionalcliente.png" alt="drawing" style="width:300px;"/>
+#
 # COMUNICACION ENTRE AREAS
 Comunicacion desde Atencion al cliente a oficina B
 <br>
 <img src="./Imagenes/Atencion_OficinaB.png" alt="drawing" style="width:400px;"/>
 <br>
 IP DE LA OFICINA B
+<br>
 <img src="./Imagenes/ping_oficinaB.png" alt="drawing" style="width:450px;"/>
 
 
