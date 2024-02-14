@@ -43,9 +43,10 @@ Area de trabajo de Atencion al Cliente y Configuracion IP
 # COMUNICACION ENTRE AREAS
 Comunicacion desde Atencion al cliente a oficina B
 <br>
-<img src="./Imagenes/Atencion_OficinaB.png" alt="drawing" style="width:300px;"/>
+<img src="./Imagenes/Atencion_OficinaB.png" alt="drawing" style="width:400px;"/>
+<br>
 IP DE LA OFICINA B
-<img src="./Imagenes/ping_oficinaB.png" alt="drawing" style="width:300px;"/>
+<img src="./Imagenes/ping_oficinaB.png" alt="drawing" style="width:450px;"/>
 
 
 Markdown is a lightweight markup language based on the formatting conventions
