@@ -62,7 +62,9 @@ ip a donde mandamos el paquete
 <br>
 <img src="./Imagenes/ip_paquete.png" alt="drawing" />
 <br>
-ping a paquete 
+<br>
+ping a paquete
+<br>
 <img src="./Imagenes/ping_a_paquete.png" alt="drawing" />
 <br>
 <img src="./Imagenes/PING_ARP.png" alt="drawing" />
