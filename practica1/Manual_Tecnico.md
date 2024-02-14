@@ -51,6 +51,11 @@ Comunicacion desde Oficina A a recursos humanos e IP de recursos
 <br>
 <img src="./Imagenes/OficinaA_recursos.png" alt="drawing" />
 <img src="./Imagenes/ping_recursos.png" alt="drawing" />
+#
+Comunicacion desde Gerencia a oficina C e IP de la oficina C
+<br>
+<img src="./Imagenes/Gerencia_Oficina.png" alt="drawing" />
+<img src="./Imagenes/ping_oficinaC.png" alt="drawing" />
 
 
 
