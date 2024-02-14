@@ -1,5 +1,10 @@
 # Manual Tecnico
 ## Jonatan Leonel Garcia Arana
+# Objetivos 
+- Proporcionar una descripción completa de la topología de la red diseñada para el pequeño negocio de dos niveles, incluyendo la disposición de los equipos, la configuración de los switches, y la estructura de la red en estrella.
+- Detallar la configuración de las máquinas virtuales VPC y switches de capa 2, así como la implementación de los protocolos Ethernet, IP, ARP e ICMP en la red diseñada.
+- Proporcionar una guía detallada y paso a paso sobre cómo recrear la topología de red en Packet Tracer, incluyendo la configuración de dispositivos, la asignación de direcciones IP, y la interconexión de equipos.
+#
 # Requerimientos minimos
 #
 Cisco Packet Tracer 8.2 (64 bits):
