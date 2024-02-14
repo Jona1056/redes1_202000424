@@ -1,24 +1,58 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# Manual Tecnico
+## Jonatan Leonel Garcia Arana
+# Configuracion de las VPCs
+#
+Area de trabajo de la Oficina A y Configuracion IP
+<br>
+<img src="./Imagenes/Conf_oficinaA.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/OficinaA.png"  style="width:300px;"/>
+#
+Area de trabajo de la Oficina B y Configuracion IP
+<br>
+<img src="./Imagenes/Conf_oficinaB.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/OficinaB.png"  style="width:300px;"/>
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+#
+Area de trabajo de la Oficina C y Configuracion IP
+<br>
+<img src="./Imagenes/Conf_oficinaC.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/OficinaC.png" alt="drawing" style="width:300px;"/>
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+#
+Area de trabajo de Gerencia y Configuracion IP
+<br>
+<img src="./Imagenes/Conf_gerencia.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/Gerencia.png" alt="drawing" style="width:300px;"/>
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+#
+Area de trabajo de Administracion y Configuracion IP
+<br>
+<img src="./Imagenes/Conf_administracion.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/Administracion.png" alt="drawing" style="width:300px;"/>
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+#
+Area de trabajo de Recursos y Configuracion IP
+<br>
+<img src="./Imagenes/Conf_recursos.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/Recursos.png" alt="drawing" style="width:300px;"/>
+#
+Area de trabajo de Atencion al Cliente y Configuracion IP
+<br>
+<img src="./Imagenes/Conf_atencionalcliente.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/Atencionalcliente.png" alt="drawing" style="width:300px;"/>
+#
+# COMUNICACION ENTRE AREAS
+Comunicacion desde Atencion al cliente a oficina B e IP de la oficina B
+<br>
+<img src="./Imagenes/Atencion_OficinaB.png" alt="drawing" style="width:400px;"/>
+<img src="./Imagenes/ping_oficinaB.png" alt="drawing" style="width:450px;"/>
+#
+Comunicacion desde Gerencia a oficina C e IP de la oficina C
+<br>
+<img src="./Imagenes/Gerencia_OficinaC.png" alt="drawing" style="width:400px;"/>
+<img src="./Imagenes/ping_oficinaC.png" alt="drawing" style="width:450px;"/>
 
-## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
