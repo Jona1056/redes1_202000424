@@ -3,8 +3,8 @@
 # Configuracion de las VPCs
 #
 Area de trabajo de la Oficina A y Configuracion IP
-<img src="./Imagenes/Conf_oficinaA.png" alt="drawing" style="width:500px;"/>
 <br>
+<img src="./Imagenes/Conf_oficinaA.png" alt="drawing" style="width:500px;"/>
 <img src="./Imagenes/OficinaA.png"  style="width:300px;"/>
 #
 Area de trabajo de la Oficina B y Configuracion IP
