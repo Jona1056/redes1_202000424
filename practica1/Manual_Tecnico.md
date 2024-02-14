@@ -13,13 +13,17 @@ Area de trabajo de la Oficina C y Configuracion IP
 #
 <img src="./Imagenes/OficinaC.png" alt="drawing" style="width:300px;"/>
 <img src="./Imagenes/Conf_oficinaC.png" alt="drawing" style="width:500px;"/>
-## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+Area de trabajo de Gerencia y Configuracion IP
+#
+<img src="./Imagenes/Gerencia.png" alt="drawing" style="width:300px;"/>
+<img src="./Imagenes/Conf_Gerencia.png" alt="drawing" style="width:500px;"/>
+
+Area de trabajo de Administracion y Configuracion IP
+#
+<img src="./Imagenes/Administracion.png" alt="drawing" style="width:300px;"/>
+<img src="./Imagenes/Conf_administracion.png" alt="drawing" style="width:500px;"/>
+
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
