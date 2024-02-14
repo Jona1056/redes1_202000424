@@ -47,10 +47,10 @@ Comunicacion desde Atencion al cliente a oficina B e IP de la oficina B
 <img src="./Imagenes/Atencion_OficinaB.png" alt="drawing" />
 <img src="./Imagenes/ping_oficinaB.png" alt="drawing" />
 #
-Comunicacion desde Gerencia a oficina C e IP de la oficina A
+Comunicacion desde Oficina A a recursos humanos e IP de recursos
 <br>
-<img src="./Imagenes/Gerencia_OficinaC.png" alt="drawing" />
-<img src="./Imagenes/ping_oficinaC.png" alt="drawing" />
+<img src="./Imagenes/OficinaA_recursos.png" alt="drawing" />
+<img src="./Imagenes/ping_recursos.png" alt="drawing" />
 
 
 
