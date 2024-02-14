@@ -1,5 +1,18 @@
 # Manual Tecnico
 ## Jonatan Leonel Garcia Arana
+# Requerimientos minimos
+#
+Cisco Packet Tracer 8.2 (64 bits):
+- Computadora con uno de los siguientes sistemas operativos: Microsoft Windows 8.1, 10, 11 (64 bits), Ubuntu 20.04, 22.04 LTS (64 bits) o macOS 10.14 o posterior.
+- CPU amd64 (x86-64)
+- 4 GB de RAM libre
+- 1,4 GB de espacio en disco libre
+Cisco Packet Tracer 8.2 (32 bits):
+- Computadora con uno de los siguientes sistemas operativos: Microsoft Windows 8.1, 10 (32 bits)
+- CPU x86 compatible
+- 2 GB de RAM libre
+- 1,4 GB de espacio en disco libre
+#
 # Configuracion de las VPCs
 #
 Area de trabajo de la Oficina A y Configuracion IP
