@@ -9,18 +9,21 @@ Area de trabajo de la Oficina A y Configuracion IP
 #
 Area de trabajo de la Oficina B y Configuracion IP
 <br>
-<img src="./Imagenes/OficinaB.png"  style="width:300px;"/>
 <img src="./Imagenes/Conf_oficinaB.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/OficinaB.png"  style="width:300px;"/>
+
 #
 Area de trabajo de la Oficina C y Configuracion IP
 <br>
-<img src="./Imagenes/OficinaC.png" alt="drawing" style="width:300px;"/>
 <img src="./Imagenes/Conf_oficinaC.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/OficinaC.png" alt="drawing" style="width:300px;"/>
+
 #
 Area de trabajo de Gerencia y Configuracion IP
 <br>
-<img src="./Imagenes/Gerencia.png" alt="drawing" style="width:300px;"/>
 <img src="./Imagenes/Conf_gerencia.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/Gerencia.png" alt="drawing" style="width:300px;"/>
+
 #
 Area de trabajo de Administracion y Configuracion IP
 <img src="./Imagenes/Administracion.png" alt="drawing" style="width:300px;"/>
