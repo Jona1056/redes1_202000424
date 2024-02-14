@@ -7,6 +7,7 @@ Cisco Packet Tracer 8.2 (64 bits):
 - CPU amd64 (x86-64)
 - 4 GB de RAM libre
 - 1,4 GB de espacio en disco libre
+#
 Cisco Packet Tracer 8.2 (32 bits):
 - Computadora con uno de los siguientes sistemas operativos: Microsoft Windows 8.1, 10 (32 bits)
 - CPU x86 compatible
