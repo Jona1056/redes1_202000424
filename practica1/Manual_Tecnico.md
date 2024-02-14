@@ -2,13 +2,16 @@
 ## Jonatan Leonel Garcia Arana
 # Configuracion de las VPCs
 Area de trabajo de la Oficina A y Configuracion IP
+
 #
 <img src="./Imagenes/OficinaA.png" alt="drawing" style="width:300px;"/>
 <img src="./Imagenes/Conf_oficinaA.png" alt="drawing" style="width:500px;"/>
+
 Area de trabajo de la Oficina B y Configuracion IP
 #
 <img src="./Imagenes/OficinaB.png" alt="drawing" style="width:300px;"/>
 <img src="./Imagenes/Conf_oficinaB.png" alt="drawing" style="width:500px;"/>
+
 Area de trabajo de la Oficina C y Configuracion IP
 #
 <img src="./Imagenes/OficinaC.png" alt="drawing" style="width:300px;"/>
@@ -17,12 +20,23 @@ Area de trabajo de la Oficina C y Configuracion IP
 Area de trabajo de Gerencia y Configuracion IP
 #
 <img src="./Imagenes/Gerencia.png" alt="drawing" style="width:300px;"/>
-<img src="./Imagenes/Conf_Gerencia.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/Conf_gerencia.png" alt="drawing" style="width:500px;"/>
 
 Area de trabajo de Administracion y Configuracion IP
 #
 <img src="./Imagenes/Administracion.png" alt="drawing" style="width:300px;"/>
 <img src="./Imagenes/Conf_administracion.png" alt="drawing" style="width:500px;"/>
+
+
+Area de trabajo de Recursos y Configuracion IP
+#
+<img src="./Imagenes/Recursos.png" alt="drawing" style="width:300px;"/>
+<img src="./Imagenes/Conf_recursos.png" alt="drawing" style="width:500px;"/>
+
+Area de trabajo de Atencion al Cliente y Configuracion IP
+#
+<img src="./Imagenes/Atencionalcliente.png" alt="drawing" style="width:300px;"/>
+<img src="./Imagenes/Conf_atencionalcliente.png" alt="drawing" style="width:500px;"/>
 
 
 Markdown is a lightweight markup language based on the formatting conventions
