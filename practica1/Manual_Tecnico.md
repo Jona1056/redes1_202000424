@@ -13,6 +13,11 @@
 <img src="./Imagenes/OficinaB.png" alt="drawing" style="width:300px;"/>
 <img src="./Imagenes/Conf_oficinaB.png" alt="drawing" style="width:500px;"/>
 ## Features
+- Area de trabajo de la Oficina C y Configuracion IP
+# 
+<img src="./Imagenes/OficinaC.png" alt="drawing" style="width:300px;"/>
+<img src="./Imagenes/Conf_oficinaC.png" alt="drawing" style="width:500px;"/>
+## Features
 
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
