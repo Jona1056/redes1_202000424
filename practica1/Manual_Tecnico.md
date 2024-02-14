@@ -2,15 +2,14 @@
 ## Jonatan Leonel Garcia Arana
 
 
-#Configuracion de las VPCs
+# Configuracion de las VPCs
 Area de trabajo de la Oficina A y Configuracion IP
-<img src="./Imagenes/OficinaA.png" alt="drawing" style="width:600px;"/>
+<img src="./Imagenes/OficinaA.png" alt="drawing" style="width:500px;"/>
 <img src="./Imagenes/Conf_oficinaA.png" alt="drawing" style="width:500px;"/>
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
+Area de trabajo de la Oficina B y Configuracion IP
+<img src="./Imagenes/OficinaB.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/Conf_oficinaB.png" alt="drawing" style="width:500px;"/>
 ## Features
 
 - Import a HTML file and watch it magically convert to Markdown
