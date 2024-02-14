@@ -57,6 +57,19 @@ Comunicacion desde Gerencia a oficina C e IP de la oficina C
 <img src="./Imagenes/Gerencia_OficinaC.png" alt="drawing" />
 <img src="./Imagenes/ping_oficinaC.png" alt="drawing" />
 
+# Captura de paquete ARP
+ip a donde mandamos el paquete
+<br>
+<img src="./Imagenes/ip_paquete.png" alt="drawing" />
+<br>
+ping a paquete 
+<img src="./Imagenes/ping_a_paquete.png" alt="drawing" />
+<br>
+<img src="./Imagenes/PING_ARP.png" alt="drawing" />
+<img src="./Imagenes/paquete_enviado.png" alt="drawing" />
+
+
+#
 
 
 Markdown is a lightweight markup language based on the formatting conventions
