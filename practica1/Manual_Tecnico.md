@@ -26,18 +26,21 @@ Area de trabajo de Gerencia y Configuracion IP
 
 #
 Area de trabajo de Administracion y Configuracion IP
-<img src="./Imagenes/Administracion.png" alt="drawing" style="width:300px;"/>
+<br>
 <img src="./Imagenes/Conf_administracion.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/Administracion.png" alt="drawing" style="width:300px;"/>
+
 #
 Area de trabajo de Recursos y Configuracion IP
 <br>
-<img src="./Imagenes/Recursos.png" alt="drawing" style="width:300px;"/>
 <img src="./Imagenes/Conf_recursos.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/Recursos.png" alt="drawing" style="width:300px;"/>
 #
 Area de trabajo de Atencion al Cliente y Configuracion IP
 <br>
-<img src="./Imagenes/Atencionalcliente.png" alt="drawing" style="width:300px;"/>
 <img src="./Imagenes/Conf_atencionalcliente.png" alt="drawing" style="width:500px;"/>
+<img src="./Imagenes/Atencionalcliente.png" alt="drawing" style="width:300px;"/>
+
 
 
 Markdown is a lightweight markup language based on the formatting conventions
