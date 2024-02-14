@@ -21,36 +21,36 @@ Area de trabajo de la Oficina C y Configuracion IP
 #
 Area de trabajo de Gerencia y Configuracion IP
 <br>
-<img src="./Imagenes/Conf_gerencia.png" alt="drawing" style="width:500px;"/>
-<img src="./Imagenes/Gerencia.png" alt="drawing" style="width:300px;"/>
+<img src="./Imagenes/Conf_gerencia.png" alt="drawing" />
+<img src="./Imagenes/Gerencia.png" alt="drawing"/>
 
 #
 Area de trabajo de Administracion y Configuracion IP
 <br>
-<img src="./Imagenes/Conf_administracion.png" alt="drawing" style="width:500px;"/>
-<img src="./Imagenes/Administracion.png" alt="drawing" style="width:300px;"/>
+<img src="./Imagenes/Conf_administracion.png" alt="drawing" />
+<img src="./Imagenes/Administracion.png" alt="drawing" />
 
 #
 Area de trabajo de Recursos y Configuracion IP
 <br>
-<img src="./Imagenes/Conf_recursos.png" alt="drawing" style="width:500px;"/>
-<img src="./Imagenes/Recursos.png" alt="drawing" style="width:300px;"/>
+<img src="./Imagenes/Conf_recursos.png" alt="drawing">
+<img src="./Imagenes/Recursos.png" alt="drawing" />
 #
 Area de trabajo de Atencion al Cliente y Configuracion IP
 <br>
-<img src="./Imagenes/Conf_atencionalcliente.png" alt="drawing" style="width:500px;"/>
-<img src="./Imagenes/Atencionalcliente.png" alt="drawing" style="width:300px;"/>
+<img src="./Imagenes/Conf_atencionalcliente.png" alt="drawing" />
+<img src="./Imagenes/Atencionalcliente.png" alt="drawing" />
 #
 # COMUNICACION ENTRE AREAS
 Comunicacion desde Atencion al cliente a oficina B e IP de la oficina B
 <br>
-<img src="./Imagenes/Atencion_OficinaB.png" alt="drawing" style="width:400px;"/>
-<img src="./Imagenes/ping_oficinaB.png" alt="drawing" style="width:450px;"/>
+<img src="./Imagenes/Atencion_OficinaB.png" alt="drawing" />
+<img src="./Imagenes/ping_oficinaB.png" alt="drawing" />
 #
 Comunicacion desde Gerencia a oficina C e IP de la oficina A
 <br>
-<img src="./Imagenes/Gerencia_OficinaC.png" alt="drawing" style="width:400px;"/>
-<img src="./Imagenes/ping_oficinaC.png" alt="drawing" style="width:450px;"/>
+<img src="./Imagenes/Gerencia_OficinaC.png" alt="drawing" />
+<img src="./Imagenes/ping_oficinaC.png" alt="drawing" />
 
 
 
