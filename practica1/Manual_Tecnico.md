@@ -20,19 +20,14 @@ desarrollo básico en C. Para proyectos más complejos, se recomiendan 2 GB o m�
 - Espacio en disco: Se recomienda un mínimo de 16 GB de espacio disponible en disco
 - Herramientas de desarrollo: Compilador de C compatible con Linux Mint (se puede
 instalar GCC, por ejemplo)
-Instalación y Configuración de Herramientas de Desarrollo:
+# 
+# Instalación y Configuración de Herramientas de Desarrollo:
 - Compilador GCC: El compilador GCC generalmente viene preinstalado en la mayoría de
 las distribuciones de Linux, incluyendo Linux Mint. Si no está instalado, puede instalarlo
 a través del gestor de paquetes de su distribución con el siguiente comando:
 sudo apt-get install build-essential
 - Editor de texto o IDE: Puede utilizar cualquier editor de texto de su preferencia, como
 Vim, Emacs, o instalar un IDE como NetBeans, Code::Blocks, o Visual Studio Code
-#
-Cisco Packet Tracer 8.2 (32 bits):
-- Computadora con uno de los siguientes sistemas operativos: Microsoft Windows 8.1, 10 (32 bits)
-- CPU x86 compatible
-- 2 GB de RAM libre
-- 1,4 GB de espacio en disco libre
 #
 # Configuracion de las VPCs
 #
