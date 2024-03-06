@@ -215,6 +215,6 @@ Switch SW0
 
 ## Ping entre IT
 <br>
-<img src="./imagenes/pinga_ait.png" alt="drawing" />
+<img src="./imagenes/ping_ait.png" alt="drawing" />
 
 
