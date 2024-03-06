@@ -14,6 +14,7 @@
 #### Backbone
 <br>
 <img src="./imagenes/backbone.png" alt="drawing" />
+<br>
 #### Centro Administrativo
 <br>
 <img src="./imagenes/centroadministrativo.png" alt="drawing" />
