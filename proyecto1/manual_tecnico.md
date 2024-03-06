@@ -1,6 +1,6 @@
 # Manual Tecnico 
-## Jonatan Leonel Garcia Arana - 202000424
-## Marco Antonio Solis Gonzalez - 202003220
+### Jonatan Leonel Garcia Arana - 202000424
+### Marco Antonio Solis Gonzalez - 202003220
 ### DIRECIONES IP Y VLANS
 <br>
 <img src="./imagenes/VLANS.png" alt="drawing" />
@@ -8,16 +8,16 @@
 <img src="./imagenes/IPS.png" alt="drawing" />
 
 ### TOPOLOGIAS
-## Area De Trabajo
+#### Area De Trabajo
 <br>
 <img src="./imagenes/areadetrabajo.png" alt="drawing" />
-## Backbone
+#### Backbone
 <br>
 <img src="./imagenes/backbone.png" alt="drawing" />
-## Centro Administrativo
+#### Centro Administrativo
 <br>
 <img src="./imagenes/centroadministrativo.png" alt="drawing" />
-## Topologia Completa
+#### Topologia Completa
 <br>
 <img src="./imagenes/topologia.png" alt="drawing" />
 
