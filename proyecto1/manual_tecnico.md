@@ -1,6 +1,6 @@
 # Manual Tecnico 
 ## Jonatan Leonel Garcia Arana - 202000424
-## Marco Antonio Solis Gonzalez - 202003220
+Marco Antonio Solis Gonzalez - 202003220
 ### DIRECIONES IP Y VLANS
 <br>
 <img src="./imagenes/VLANS.png" alt="drawing" />
