@@ -1,13 +1,28 @@
 # Manual Tecnico 
 ## Jonatan Leonel Garcia Arana - 202000424
-Marco Antonio Solis Gonzalez - 202003220
+## Marco Antonio Solis Gonzalez - 202003220
 ### DIRECIONES IP Y VLANS
 <br>
 <img src="./imagenes/VLANS.png" alt="drawing" />
-#
 <br>
 <img src="./imagenes/IPS.png" alt="drawing" />
-#
+
+### TOPOLOGIAS
+## Area De Trabajo
+<br>
+<img src="./imagenes/areadetrabajo.png" alt="drawing" />
+## Backbone
+<br>
+<img src="./imagenes/backbone.png" alt="drawing" />
+## Centro Administrativo
+<br>
+<img src="./imagenes/centroadministrativo.png" alt="drawing" />
+## Topologia Completa
+<br>
+<img src="./imagenes/topologia.png" alt="drawing" />
+
+
+
 ### COMANDOS
 
 ### Configuracion del vtp en cada switch
