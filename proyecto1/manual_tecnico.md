@@ -11,13 +11,15 @@
 #### Area De Trabajo
 <br>
 <img src="./imagenes/areadetrabajo.png" alt="drawing" />
+
 #### Backbone
 <br>
 <img src="./imagenes/backbone.png" alt="drawing" />
-<br>
+
 #### Centro Administrativo
 <br>
 <img src="./imagenes/centroadministrativo.png" alt="drawing" />
+
 #### Topologia Completa
 <br>
 <img src="./imagenes/topologia.png" alt="drawing" />
