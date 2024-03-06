@@ -191,3 +191,18 @@ Switch SW0
 - spanning-tree mode pvst
 - exit
 - write
+
+### PING ENTRE AREAS
+## ip de recursos humanos
+<br>
+<img src="./imagenes/iprrhh.png" alt="drawing" />
+
+## ip del computador que hara ping
+<br>
+<img src="./imagenes/ping_salidait.png" alt="drawing" />
+
+## Ping entre RRHH
+<br>
+<img src="./imagenes/pingarecursos.png" alt="drawing" />
+
+
