@@ -1,4 +1,13 @@
-
+# Manual Tecnico 
+## Jonatan Leonel Garcia Arana - 202000424
+## Marco Antonio Solis Gonzalez - 202003220
+### DIRECIONES IP Y VLANS
+<br>
+<img src="./imagenes/VLANS.png" alt="drawing" />
+#
+<br>
+<img src="./imagenes/IPS.png" alt="drawing" />
+#
 ### COMANDOS
 
 ### Configuracion del vtp en cada switch
