@@ -199,10 +199,22 @@ Switch SW0
 
 ## ip del computador que hara ping
 <br>
-<img src="./imagenes/ping_salidait.png" alt="drawing" />
+<img src="./imagenes/ping_salidarrhh.png" alt="drawing" />
 
 ## Ping entre RRHH
 <br>
 <img src="./imagenes/pingarecursos.png" alt="drawing" />
+
+## ip de IT
+<br>
+<img src="./imagenes/ipit.png" alt="drawing" />
+
+## ip del computador que hara ping
+<br>
+<img src="./imagenes/ping_salidait.png" alt="drawing" />
+
+## Ping entre IT
+<br>
+<img src="./imagenes/pinga_ait.png" alt="drawing" />
 
 
